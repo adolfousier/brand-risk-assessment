@@ -11,9 +11,9 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to Mint Ventures AI Pitch Feedback Assistant Demo!" />
+        <Header title="Welcome to Mint Ventures AI Pitch Brand Risk Assessment Assistant Demo!" />
         <p className="description">
-          Share your press pitch, and this AI agent will give you feedback from the perspective of a senior pitch deck analyst. Get started by clicking on the bot icon.
+          Describe a company/brand and this AI agent will rate the severity and describe the potential types of brand risks. Get started by clicking on the bot icon.
         </p>
       </main>
 
