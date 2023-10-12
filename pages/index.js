@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to Mint Ventures AI Brand Risk Assessment Assistant Demo!" />
         <p className="description">
-          Describe a company/brand and this AI agent will rate the severity and describe the potential types of brand risks. Get started by clicking on the bot icon.
+          Describe a company/brand and this AI agent will rate the severity and describe the potential types of risks. Get started by clicking on the bot icon.
         </p>
       </main>
 
